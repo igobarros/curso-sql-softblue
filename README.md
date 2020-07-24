@@ -1,7 +1,7 @@
 ## Curso de SQl - Softblue
 
 ### Módulos
-O SGBD abordado no curso é o mysql.
+O SGBD abordado no curso foi o MySQL.
 
 	1 - Introdução a Bancos de Dados
 	2 - Normalização de Dados
